@@ -1,5 +1,8 @@
 # Week 0 — Billing and Architecture
 
+## Architecture drawn
+
+![Architecture](../_docs/assets/architecture.png)
 
 ## Getting the AWS CLI Working
 
